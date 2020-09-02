@@ -27,13 +27,13 @@ Code in the repo is for the one who just begin with kaggle's Titanic competition
 
 ----
 
-```Python3```
-```Numpy```
-```Pandas```
-```Matplotlib```
-```Supervised Learning```
-```Machine Learning Algorithm```
-```Classification Algorithms```
+```Python3```<br>
+```Numpy```<br>
+```Pandas```<br>
+```Matplotlib```<br>
+```Supervised Learning```<br>
+```Machine Learning Algorithm```<br>
+```Classification Algorithms```<br>
 
 > **Algorithm✨**
 
